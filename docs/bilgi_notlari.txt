@@ -1,0 +1,5 @@
+Microsoft Foundry Local, yapay zeka modellerini tamamen yerel cihazlarda (offline) çalıştırmaya yarayan bir altyapıdır. Internet bağlantısı gerektirmez.
+
+RAG (Retrieval-Augmented Generation), yapay zeka modellerinin kendi dokümanlarımızdan bilgi çekerek doğru ve kaynağa dayalı cevaplar vermesini sağlayan bir mimaridir. Bu yöntem modelin uydurma (hallucination) cevaplar vermesini engeller.
+
+Bu proje Esma Ulu tarafından geliştirilmiş bir yerel RAG asistanı uygulamasıdır. Projede SQLite veritabanı ve Foundry Local SDK kullanılmıştır.

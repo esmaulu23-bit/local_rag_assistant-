@@ -1,5 +1,8 @@
 # Proje Tanıtımı
 https://github.com/user-attachments/assets/28d0a388-ea73-4192-8f45-d9b6b19f9ed3
+
+## 🎥 Proje Sunumu ve Demo
+[2 Dakikalık Proje Sunum Videosunu İzlemek İçin Tıklayın](https://youtu.be/P2qjBhVrUvk?si=kegsnkRXPs4wwwZb)
 # 🤖 Offline Türkçe RAG Bilgi Asistanı
 
 Bu proje, **Microsoft Foundry Local**, **SentenceTransformers**, **SQLite** ve **Streamlit** kullanılarak geliştirilmiş, tamamen yerel (offline) çalışan bir **Retrieval-Augmented Generation (RAG)** soru-cevap asistanıdır.
